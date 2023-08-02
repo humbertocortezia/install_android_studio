@@ -1,9 +1,9 @@
-* Script criado para baixar e configurar o android studio no linux
+# Script criado para baixar e configurar o android studio no linux
 
-* O download é feito direto do site do android studio
+# O download é feito direto do site do android studio
 
-para instalar basta realizar o download do script depois 
+Para instalar basta realizar o download do script depois 
 
-# chmod +x install_android_studio.sh
+* chmod +x install_android_studio.sh
 depois 
-# ./install_android_studio.sh
+* ./install_android_studio.sh
